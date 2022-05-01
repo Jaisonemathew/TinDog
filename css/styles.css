@@ -94,3 +94,9 @@ border-radius: 100%;
 {
   padding:3% 2%;   
 }
+@media (max-width:1028px)
+{
+    .title-image{
+        transform: rotate(0);
+    }
+}
