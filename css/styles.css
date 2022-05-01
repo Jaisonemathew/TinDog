@@ -99,4 +99,7 @@ border-radius: 100%;
     .title-image{
         transform: rotate(0);
     }
+    #title{
+        text-align: center;
+    }
 }
